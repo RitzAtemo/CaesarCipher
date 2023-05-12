@@ -1,0 +1,7 @@
+C:\Users\Vlad\RiderProjects\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe
+C:\Users\Vlad\RiderProjects\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.pdb
+C:\Users\Vlad\RiderProjects\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\Vlad\RiderProjects\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vlad\RiderProjects\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\RiderProjects\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.exe
+C:\Users\Vlad\RiderProjects\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.pdb
